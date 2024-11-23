@@ -1,0 +1,184 @@
+{
+  "fixedLocations": {
+    "sydney_opera_house": {
+      "location": "Sydney Opera House",
+      "country": "Australia",
+      "region": "Sydney",
+      "latitude": -33.857,
+      "longitude": 151.215,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "mount_fuji": {
+      "location": "Mount Fuji",
+      "country": "Japan",
+      "region": "Yamanashi",
+      "latitude": 35.361,
+      "longitude": 138.727,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1108701/pexels-photo-1108701.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/259772/pexels-photo-259772.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/3022942/pexels-photo-3022942.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "eiffel_tower": {
+      "location": "Eiffel Tower",
+      "country": "France",
+      "region": "Paris",
+      "latitude": 48.859,
+      "longitude": 2.294,
+      "imageUrls": [
+        "https://images.pexels.com/photos/161853/eiffel-tower-paris-france-tower-161853.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/618752/pexels-photo-618752.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "niagara_falls": {
+      "location": "Niagara Falls",
+      "country": "Canada/USA",
+      "region": "Ontario/New York",
+      "latitude": 43.0966,
+      "longitude": -79.0377,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1374585/pexels-photo-1374585.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/158398/niagara-falls-waterfall-horseshoe-158398.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/306381/pexels-photo-306381.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "christ_the_redeemer_brazil": {
+      "location": "Christ the Redeemer",
+      "country": "Brazil",
+      "region": "Rio de Janeiro",
+      "latitude": -22.9519,
+      "longitude": -43.2105,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1022117/pexels-photo-1022117.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2562283/pexels-photo-2562283.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/3367482/pexels-photo-3367482.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "petra": {
+      "location": "Petra",
+      "country": "Jordan",
+      "region": "Ma'an Governorate",
+      "latitude": 30.3285,
+      "longitude": 35.4444,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1108701/pexels-photo-1108701.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/259772/pexels-photo-259772.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/3022942/pexels-photo-3022942.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "macchu_picchu": {
+      "location": "Machu Picchu",
+      "country": "Peru",
+      "region": "Cusco Region",
+      "latitude": -13.1631,
+      "longitude": -72.545,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1374585/pexels-photo-1374585.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/158398/niagara-falls-waterfall-horseshoe-158398.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/306381/pexels-photo-306381.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "great_wall_of_china": {
+      "location": "Great Wall of China",
+      "country": "China",
+      "region": "Beijing",
+      "latitude": 40.4319,
+      "longitude": 116.5704,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1108701/pexels-photo-1108701.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/259772/pexels-photo-259772.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/3022942/pexels-photo-3022942.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "statue_of_liberty": {
+      "location": "Statue of Liberty",
+      "country": "USA",
+      "region": "New York",
+      "latitude": 40.6892,
+      "longitude": -74.0445,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "colosseum": {
+      "location": "Colosseum",
+      "country": "Italy",
+      "region": "Rome",
+      "latitude": 41.8902,
+      "longitude": 12.4922,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1374585/pexels-photo-1374585.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/158398/niagara-falls-waterfall-horseshoe-158398.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/306381/pexels-photo-306381.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "taj_mahal": {
+      "location": "Taj Mahal",
+      "country": "India",
+      "region": "Agra",
+      "latitude": 27.1751,
+      "longitude": 78.0421,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1108701/pexels-photo-1108701.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/259772/pexels-photo-259772.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/3022942/pexels-photo-3022942.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "big_ben": {
+      "location": "Big Ben",
+      "country": "United Kingdom",
+      "region": "London",
+      "latitude": 51.5007,
+      "longitude": -0.1246,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1932738/pexels-photo-1932738.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/3408747/pexels-photo-3408747.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/461163/pexels-photo-461163.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "pyramids_of_giza": {
+      "location": "Pyramids of Giza",
+      "country": "Egypt",
+      "region": "Giza Governorate",
+      "latitude": 29.9792,
+      "longitude": 31.1342,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1624580/pexels-photo-1624580.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1558136/pexels-photo-1558136.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2815974/pexels-photo-2815974.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "sagrada_familia": {
+      "location": "Sagrada Familia",
+      "country": "Spain",
+      "region": "Barcelona",
+      "latitude": 41.4036,
+      "longitude": 2.1744,
+      "imageUrls": [
+        "https://images.pexels.com/photos/1601566/pexels-photo-1601566.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/354567/pexels-photo-354567.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1624580/pexels-photo-1624580.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    "mona_lisa": {
+      "location": "Mona Lisa",
+      "country": "France",
+      "region": "Paris",
+      "latitude": 48.8606,
+      "longitude": 2.3376,
+      "imageUrls": [
+        "https://images.pexels.com/photos/2253349/pexels-photo-2253349.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/4621056/pexels-photo-4621056.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1597334/pexels-photo-1597334.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    }
+  }
+}
