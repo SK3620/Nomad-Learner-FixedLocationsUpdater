@@ -2,7 +2,7 @@
 const admin = require("firebase-admin");
 
 // Firebaseプロジェクトのサービスアカウントキーのパスを指定
-const serviceAccount = require("/Users/suzukikenta/Desktop/Development/Swift-Projects/Nomad-Learner-fixedLocationsUpdater/nomad-learner-firebase-adminsdk-uzuz8-7febc0bd16.json"); // サービスアカウントキーのパス
+const serviceAccount = require("/Users/suzukikenta/Desktop/Development/Swift-Projects/Nomad-Learner-FixedLocationsUpdater/nomad-learner-firebase-adminsdk-uzuz8-7febc0bd16.json"); // サービスアカウントキーのパス
 
 // Firebaseを初期化（DatabaseURLを追加）
 admin.initializeApp({
