@@ -1,6 +1,7 @@
 {
   "fixedLocations": {
     "sydney_opera_house": {
+      "category": "",
       "location": "Sydney Opera House",
       "country": "Australia",
       "region": "Sydney",
@@ -13,6 +14,7 @@
       ]
     },
     "mount_fuji": {
+      "category": "",
       "location": "Mount Fuji",
       "country": "Japan",
       "region": "Yamanashi",
@@ -25,6 +27,7 @@
       ]
     },
     "eiffel_tower": {
+      "category": "",
       "location": "Eiffel Tower",
       "country": "France",
       "region": "Paris",
@@ -37,6 +40,7 @@
       ]
     },
     "niagara_falls": {
+      "category": "",
       "location": "Niagara Falls",
       "country": "Canada/USA",
       "region": "Ontario/New York",
@@ -49,6 +53,7 @@
       ]
     },
     "christ_the_redeemer_brazil": {
+      "category": "",
       "location": "Christ the Redeemer",
       "country": "Brazil",
       "region": "Rio de Janeiro",
@@ -61,6 +66,7 @@
       ]
     },
     "petra": {
+      "category": "",
       "location": "Petra",
       "country": "Jordan",
       "region": "Ma'an Governorate",
@@ -73,6 +79,7 @@
       ]
     },
     "macchu_picchu": {
+      "category": "",
       "location": "Machu Picchu",
       "country": "Peru",
       "region": "Cusco Region",
@@ -85,6 +92,7 @@
       ]
     },
     "great_wall_of_china": {
+      "category": "",
       "location": "Great Wall of China",
       "country": "China",
       "region": "Beijing",
@@ -97,6 +105,7 @@
       ]
     },
     "statue_of_liberty": {
+      "category": "",
       "location": "Statue of Liberty",
       "country": "USA",
       "region": "New York",
@@ -109,6 +118,7 @@
       ]
     },
     "colosseum": {
+      "category": "",
       "location": "Colosseum",
       "country": "Italy",
       "region": "Rome",
@@ -121,6 +131,7 @@
       ]
     },
     "taj_mahal": {
+      "category": "",
       "location": "Taj Mahal",
       "country": "India",
       "region": "Agra",
@@ -133,6 +144,7 @@
       ]
     },
     "big_ben": {
+      "category": "",
       "location": "Big Ben",
       "country": "United Kingdom",
       "region": "London",
@@ -145,6 +157,7 @@
       ]
     },
     "pyramids_of_giza": {
+      "category": "",
       "location": "Pyramids of Giza",
       "country": "Egypt",
       "region": "Giza Governorate",
@@ -157,6 +170,7 @@
       ]
     },
     "sagrada_familia": {
+      "category": "",
       "location": "Sagrada Familia",
       "country": "Spain",
       "region": "Barcelona",
@@ -169,6 +183,7 @@
       ]
     },
     "mona_lisa": {
+      "category": "",
       "location": "Mona Lisa",
       "country": "France",
       "region": "Paris",
