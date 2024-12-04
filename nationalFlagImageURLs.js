@@ -193,4 +193,7 @@ export const nationalFlagImageURLs = {
   zambia: "https://freesozai.jp/sozai/nation_flag/ntf_739/ntf_739.svg",
   zimbabwe: "https://freesozai.jp/sozai/nation_flag/ntf_740/ntf_740.svg",
   serbia: "https://freesozai.jp/sozai/nation_flag/ntf_741/ntf_741.svg",
+  mexico:
+    "https://cdn.pixabay.com/photo/2013/07/13/14/16/mexico-162359_1280.png",
+  malta: "https://cdn.pixabay.com/photo/2013/07/13/14/16/malta-162354_1280.png",
 };
