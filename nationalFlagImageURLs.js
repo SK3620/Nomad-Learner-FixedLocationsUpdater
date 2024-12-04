@@ -179,7 +179,8 @@ export const nationalFlagImageURLs = {
   portugal: "https://freesozai.jp/sozai/nation_flag/ntf_725/ntf_725.svg",
   puertoRico: "https://freesozai.jp/sozai/nation_flag/ntf_726/ntf_726.svg",
   samoa: "https://freesozai.jp/sozai/nation_flag/ntf_727/ntf_727.svg",
-  spain: "https://freesozai.jp/sozai/nation_flag/ntf_728/ntf_728.svg",
+  spain:
+    "https://cdn-icons-png.freepik.com/256/14272/14272316.png?ga=GA1.1.421055808.1732886537&semt=ais_hybrid",
   eswatini: "https://freesozai.jp/sozai/nation_flag/ntf_729/ntf_729.svg",
   comoros: "https://freesozai.jp/sozai/nation_flag/ntf_730/ntf_730.svg",
   solomonIslands: "https://freesozai.jp/sozai/nation_flag/ntf_731/ntf_731.svg",
