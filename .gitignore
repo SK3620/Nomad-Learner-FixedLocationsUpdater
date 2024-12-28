@@ -67,3 +67,6 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# Firebaseサービスアカウント
+nomad-learner-firebase-adminsdk-uzuz8-7febc0bd16.json
